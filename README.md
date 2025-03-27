@@ -23,6 +23,9 @@ Finally, **`gradio-dashboard.py`** brings all the features together in a **user-
 ## **Acknowledgements**
 
 - [Hugging Face](https://huggingface.co/) for their **transformers library**  
-- [Gradio](https://gradio.app/) for creating the easy-to-use web interface  
 - [OpenAI](https://openai.com/) for providing powerful LLMs that make it all possible
-- [freeCodeCamp](https://www.youtube.com/@freecodecamp) course for the detailed explaination
+- [Gradio](https://gradio.app/) for creating the easy-to-use web interface  
+- [FreeCodeCamp](https://www.freecodecamp.org/) for their amazing tutorials and resources that helped me improve my coding skills and make this project a reality!
+
+
+
